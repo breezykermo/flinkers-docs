@@ -4,7 +4,7 @@ Entry point repo for "flinkers" research group (Ugur Cetintemel) at Brown
 University.
 
 If you are unable to access any of these repositories, contact one of the
-the [adminstrators](./administrators.md). 
+[adminstrators](./administrators.md). 
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -13,5 +13,3 @@ the [adminstrators](./administrators.md).
 | [terraform-module-flink-cluster](https://github.com/breezykermo/terraform-module-flink-cluster) | IaC to run Flink jobs (either locally or remotely on AWS) | 
 | [terraform-module-terraform-state](https://github.com/breezykermo/terraform-module-terraform-state) | IaC for managing terraform state remotely in AWS (S3 and DynamoDB) |
 | [terraform-module-user-management](https://github.com/breezykermo/terraform-module-user-management) | IaC for AWS user accounts, groups, and permissions |
-
-For more information, contact one of the [adminstrators](./administrators.md). 
