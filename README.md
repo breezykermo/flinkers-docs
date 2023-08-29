@@ -4,7 +4,7 @@ Entry point repo for "flinkers" research group (Ugur Cetintemel) at Brown
 University.
 
 If you are unable to access any of these repositories, contact one of the
-administrators at their email address listed in [main.tf](./main.tf).
+the [adminstrators](./administrators.md). 
 
 | Repository | Description |
 | ---------- | ----------- |
@@ -14,5 +14,4 @@ administrators at their email address listed in [main.tf](./main.tf).
 | [terraform-module-terraform-state](https://github.com/breezykermo/terraform-module-terraform-state) | IaC for managing terraform state remotely in AWS (S3 and DynamoDB) |
 | [terraform-module-user-management](https://github.com/breezykermo/terraform-module-user-management) | IaC for AWS user accounts, groups, and permissions |
 
-For more information, contact one of the administrators at their email address
-listed in [main.tf](./main.tf).
+For more information, contact one of the [adminstrators](./administrators.md). 
